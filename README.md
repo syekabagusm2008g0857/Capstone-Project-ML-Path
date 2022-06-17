@@ -1,2 +1,3 @@
 # Capstone-Project-ML-Path
-Traveoka company capstone project Bangkit 2022
+Traveloka company capstone project Bangkit 2022
+Price Optimizing Machine Leaning Model
